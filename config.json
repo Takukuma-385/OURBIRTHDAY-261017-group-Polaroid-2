@@ -1,0 +1,16 @@
+{
+  "discord_webhook_url": "https://discord.com/api/webhooks/1554027446607810685/Lc2UOXx3LqYaJ6sDsN3HgRZlKIR78y9YUcX0EIOIZUOTSoQxhjEG2c2HAjgJZalCrrGd",
+  "products": [
+    {
+      "url": "https://www.kmonstar.com.tw/products/261017-ourbirthday-1st-single-album-our-birthday-71-%E6%8B%8D%E7%AB%8B%E5%BE%97%E5%90%88%E7%85%A7%E6%B4%BB%E5%8B%95-in-taipei.json",
+      "custom_name": ""
+    }
+  ],
+  "id_name_map": {},
+  "schedules": [
+    {
+      "start": "2026-09-28 14:00",
+      "end": "2026-12-31 23:59"
+    }
+  ]
+}
